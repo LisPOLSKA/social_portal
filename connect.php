@@ -11,9 +11,9 @@ $db_name = "blog1";
 
 /*
 $host = "mysql.ct8.pl";
-$db_user = "m33051_str";
-$db_password = "Tajne1287";
-$db_name = "m33051_blog1";
+$db_user = "***";
+$db_password = "***";
+$db_name = "***";
 */
 
 ?>
