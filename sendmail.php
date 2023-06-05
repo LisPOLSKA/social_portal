@@ -27,7 +27,7 @@
             $mail->SMTPAuth = true;
 
             $mail->Username = 'no-reply@lisko.ct8.pl';
-            $mail->Password = 'Tajne1287';
+            $mail->Password = '***';
 
             $mail->CharSet = 'UTF-8';
             $mail->setFrom('no-reply@lisekpl.ct8.pl', $_POST['name'].'z formularza kontaktowego');
